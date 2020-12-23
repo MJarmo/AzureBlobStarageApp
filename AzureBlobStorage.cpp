@@ -19,7 +19,7 @@ using namespace utility::conversions;
 // Blob Container
 const string container_name{ "kopiec-krecika" };
 string accName { "default" };// mich90
-string accKey { "default" };// "O2pAHx492uXwWP66VxJSWdnGpcuZFH33Xemn0mJxSiIi3J+AJa9gc4r3zj9BHh04VdnoVTDo6MtOaeXg5B4vAQ=="
+string accKey { "default" };// 
 
 string jsonName{ "data.json" };
 azure::storage::cloud_blob_container container;
